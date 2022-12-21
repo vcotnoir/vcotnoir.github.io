@@ -1,0 +1,16 @@
+---
+title: "website_test"
+author: "Vincent Cotnoir"
+date: "2022-12-20"
+---
+
+Bonjour, mon nom est Vincent, je suis presentement un étudiant en [intelligence d'affaires](https://www.hec.ca/programmes/maitrises/maitrise-intelligence-affaires/) à HEC Montreal.
+
+### Mon histoire en quelques lignes
+
+Après avoir complété mon CPA, j'ai intégér le marché du travail. Cependant, bien que ces expériences m'ont permises de déelopper des méthodes de travailles efficaces, j'ai toujours voulu parfaire mes connaissances en intelligence d'affaire, c'est pour cette raison que j'ai décidé de retouner sur les banc d'école en septembre 2022 pour maire la maitrise.
+
+### Mes motivations
+
+Depuis que je suis tout jeune, je participe à des sports organisés. football, soccer, hockey, natation, ski, j'en ait essayé plusieurs. Cette amour pour le sport se continue et c'est transformé en pratqiue du vélo et du golf. 
+

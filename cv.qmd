@@ -1,0 +1,65 @@
+---
+title: "Curriculum Vitae"
+---
+
+
+
+## **Vincent Cotnoir, CPA**{.test}
+
+
+::: {layout-ncol=3 .contact}
+
+Telephone number:<br>
+819-342-9316
+
+email:<br>
+cotnoir.vincent@gmail.com
+
+[LinkedIn](https://www.linkedin.com/in/vincentcotnoir/)
+:::
+
+### **Education**{.test2}
+**HEC Montréal**, Montréal<br>
+Maîtrise en intelligence d’affaires (fin prévue décembre 2023)
+
+**Université de sherbrooke**, Sherbrooke<br>
+D.E.S.S. en expertise comptable, réussite de l’EFC (Septembre 2019)
+
+**Université de sherbrooke**, Sherbrooke<br>
+Baccalauréat en administration, concentration en comptabilité
+
+### **Work experience**{.test2}
+**Danone Canada**, Montreal<br>
+*Finance manager, Financial planning and analysis*<br>
+
+*   Consolidation of marketing and overhead financial data<br>
+*   Financial data analysis to ensure alignement with business goals<br>
+*   Creation of tool to ensure appropriate reflectio of costs to upper management<br>
+
+**PriceWaterhouseCoopers Canada**, Montréal<br>
+*Analyste sénior, Certification*<br>
+
+*   Planification de l’audit en effectuant l'évaluation des priorités et l’affectation des tâches<br>
+*   Entretien de relations client collaboratives permettant la résolution des requêtes de l’équipe<br>
+*   Encadrement des analystes par rétrospections constructives contribuant à leur développement<br>
+
+**PriceWaterhouseCoopers Canada**, Montréal<br>
+*Analyste expérimenté, Certification*<br>
+
+*   Comprendre et exécuter efficacement des sections complexes de l’audit (investissement, CMV)<br>
+*   valuer les processus de contrôle favorisant la productivité de la stratégie du mandat<br>
+*   Expliquer les écarts dans les états financiers d’une multitude d’entreprises<br>
+
+### **Languages de programmation**{.test2}
+
+*   SQL 
+*   R/Quarto (utilisé pour ce site)
+*   Github (utilisé pour ce site)
+*   Suite Office
+
+### **Passions et autres accomplissements**{.test2}
+
+*   Membre du comite organisateur des jeux du commerce 2018
+*   Participation à une multitude de compétitions inter-universitaires
+
+

@@ -12,6 +12,7 @@ title: "Curriculum Vitae"
 {{< fa envelope size=Large >}}<br>cotnoir.vincent@gmail.com
 :::
 
+::::{.column-body-outset}
 ::: panel-tabset
 #### Francais
 ### **Education** {.test2}
@@ -97,3 +98,4 @@ title: "Curriculum Vitae"
 -   Membre du comite organisateur des jeux du commerce 2018
 -   Participation à une multitude de compétitions inter-universitaires
 :::
+::::

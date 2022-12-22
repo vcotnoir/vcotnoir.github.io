@@ -3,6 +3,7 @@ title: "Présentation"
 author: "Vincent Cotnoir"
 date: "2022-12-20"
 ---
+::::{.column-body-outset}
 ::: panel-tabset
 #### Francais
 Bonjour, mon nom est Vincent, je suis presentement un étudiant en [intelligence d'affaires](https://www.hec.ca/programmes/maitrises/maitrise-intelligence-affaires/) à HEC Montreal.
@@ -17,3 +18,4 @@ Depuis que je suis tout jeune, je participe à des sports organisés. football, 
 
 #### Anglais
 :::
+::::

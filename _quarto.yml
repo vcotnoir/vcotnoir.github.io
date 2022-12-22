@@ -1,9 +1,11 @@
 project:
   type: website
   output-dir: docs
+  preview: 
+    timeout: 60
 
 website:
-  title: "Vincent Cotnoir"
+  title: "Vincent Cotnoir.com"
   #possible d'ajouter about: pour avoir un template spécial 
   navbar:
     left:
@@ -11,6 +13,13 @@ website:
         text: Présentation
       - href: cv.qmd
         text: CV
+    right:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/vincentcotnoir/
+      - icon: github
+        href: https://github.com/vcotnoir
+  sidebar:
+    search: true
         
 format:
   html:

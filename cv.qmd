@@ -5,11 +5,11 @@ title: "Curriculum Vitae"
 ## **Vincent Cotnoir, CPA** {.test}
 
 ::: {.contact layout-ncol="3"}
-Telephone number:<br> 819-342-9316
+{{< fa phone size=Large >}}<br> 819-342-9316
 
-email:<br> cotnoir.vincent@gmail.com
+{{< fa envelope size=Large >}}<br> cotnoir.vincent@gmail.com
 
-[{{< fa brands linkedin size=Large >}} ](https://www.linkedin.com/in/vincentcotnoir/)
+[{{< fa brands linkedin size=2xl >}}](https://www.linkedin.com/in/vincentcotnoir/)
 :::
 
 ### **Education** {.test2}

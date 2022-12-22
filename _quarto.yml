@@ -6,7 +6,7 @@ website:
   navbar:
     right:
       - href: index.qmd
-        text: Presentation
+        text: Présentation
       - href: cv.qmd
         text: CV
         

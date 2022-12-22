@@ -4,8 +4,9 @@ project:
 
 website:
   title: "Vincent Cotnoir"
+  #possible d'ajouter about: pour avoir un template spécial 
   navbar:
-    right:
+    left:
       - href: index.qmd
         text: Présentation
       - href: cv.qmd

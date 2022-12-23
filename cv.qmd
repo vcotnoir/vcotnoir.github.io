@@ -61,11 +61,12 @@ title: "Curriculum Vitae"
 
 ### **Education** {.test2}
 
-**HEC Montréal**, Montréal<br> Maîtrise en intelligence d'affaires (fin prévue décembre 2023)
+**HEC Montreal**, Montreal<br> Business Intelligence masters (ending december 2023)
 
 **Université de sherbrooke**, Sherbrooke<br> D.E.S.S. en expertise comptable, réussite de l'EFC (Septembre 2019)
+**Université de sherbrooke**, Sherbrooke<br> Accounting post-graduate diploma (D.E.S.S), CFE passed (September 2019)
 
-**Université de sherbrooke**, Sherbrooke<br> Baccalauréat en administration, concentration en comptabilité
+**Université de sherbrooke**, Sherbrooke<br> BComm, accounting
 
 ### **Work experience** {.test2}
 
@@ -75,29 +76,28 @@ title: "Curriculum Vitae"
 -   Financial data analysis to ensure alignement with business goals<br>
 -   Creation of tool to ensure appropriate reflectio of costs to upper management<br>
 
-**PriceWaterhouseCoopers Canada**, Montréal<br> *Analyste sénior, Certification*<br>
+**PriceWaterhouseCoopers Canada**, Montreal<br> *Senior analyst, Audit*<br>
 
--   Planification de l'audit en effectuant l'évaluation des priorités et l'affectation des tâches<br>
--   Entretien de relations client collaboratives permettant la résolution des requêtes de l'équipe<br>
--   Encadrement des analystes par rétrospections constructives contribuant à leur développement<br>
+-   Audit planning and assessment of priorities throughout the team<br>
+-   Collaborative client relationship management to ensure resolution of team requests<br>
+-   Assess work of junior analysts and ensure that contructive feedback is given at opportunate moments<br>
 
-**PriceWaterhouseCoopers Canada**, Montréal<br> *Analyste expérimenté, Certification*<br>
+**PriceWaterhouseCoopers Canada**, Montreal<br> *Experienced analyst, Audit*<br>
 
--   Comprendre et exécuter efficacement des sections complexes de l'audit (investissement, CMV)<br>
--   valuer les processus de contrôle favorisant la productivité de la stratégie du mandat<br>
--   Expliquer les écarts dans les états financiers d'une multitude d'entreprises<br>
+-   Understand and execute complex parts of the audit (investments, COGS)<br>
+-   Evaluate control processes while ensure effective application of audit strategy<br>
+-   Explain financial statement differences from multiple enterprises<br>
 
-### **Languages de programmation** {.test2}
+### **Programming languages** {.test2}
 
 -   SQL
--   R/Quarto (utilisé pour ce site)
--   Github (utilisé pour ce site)
--   Suite Office
--   autre
+-   R/Quarto (used for this site)
+-   Github (used for this site)
+-   Office
 
-### **Passions et autres accomplissements** {.test2}
+### **Passions other accomplishements** {.test2}
 
--   Membre du comite organisateur des jeux du commerce 2018
--   Participation à une multitude de compétitions inter-universitaires
+-   2018 Jeux du commerce organizing committee member
+-   Participant in numerous university case competitons
 :::
 :::

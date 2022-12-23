@@ -28,9 +28,9 @@ title: "Curriculum Vitae"
 
 **Danone Canada**, Montreal<br> *Finance manager, Financial planning and analysis*<br>
 
--   Consolidation of marketing and overhead financial data<br>
--   Financial data analysis to ensure alignement with business goals<br>
--   Creation of tool to ensure appropriate reflectio of costs to upper management<br>
+-   Consolidation des données marketing et des couts fixes<br>
+-   Analyse des données financières pour assurer l'alignement avec l'entreprise<br>
+-   Création d'outils de suivit des couts pour la haute direction<br>
 
 **PriceWaterhouseCoopers Canada**, Montréal<br> *Analyste sénior, Certification*<br>
 

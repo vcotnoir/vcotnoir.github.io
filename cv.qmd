@@ -5,16 +5,17 @@ title: "Curriculum Vitae"
 ## **Vincent Cotnoir, CPA** {.test}
 
 ::: {.contact layout-ncol="3"}
-{{< fa phone size=Large >}}<br> 819-342-9316
+{{< fa phone size=Large >}}<br>819-342-9316
 
 [{{< fa brands linkedin size=2xl >}}](https://www.linkedin.com/in/vincentcotnoir/)
 
 {{< fa envelope size=Large >}}<br>cotnoir.vincent@gmail.com
 :::
 
-::::{.column-body-outset}
+::: column-body-outset
 ::: panel-tabset
 #### Francais
+
 ### **Education** {.test2}
 
 **HEC Montréal**, Montréal<br> Maîtrise en intelligence d'affaires (fin prévue décembre 2023)
@@ -57,6 +58,7 @@ title: "Curriculum Vitae"
 -   Participation à une multitude de compétitions inter-universitaires
 
 #### English
+
 ### **Education** {.test2}
 
 **HEC Montréal**, Montréal<br> Maîtrise en intelligence d'affaires (fin prévue décembre 2023)
@@ -98,4 +100,4 @@ title: "Curriculum Vitae"
 -   Membre du comite organisateur des jeux du commerce 2018
 -   Participation à une multitude de compétitions inter-universitaires
 :::
-::::
+:::

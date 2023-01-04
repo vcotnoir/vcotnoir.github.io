@@ -1,11 +1,21 @@
 ---
-title: "Présentation"
-author: "Vincent Cotnoir"
-date: "2022-12-20"
+title: "Vincent Cotnoir"
+about: 
+  template: trestles
+  image: VZ_05485.jpg
+  links:
+    - icon: linkedin
+      text: linkedin
+      href: https://www.linkedin.com/in/vincentcotnoir/
+    - icon: github
+      text: Github
+      href: https://github.com/vcotnoir
 ---
-::::{.column-body-outset}
+
+::: column-body-outset
 ::: panel-tabset
-#### Francais
+#### Français
+
 Bonjour, mon nom est Vincent, je suis presentement un étudiant en [intelligence d'affaires](https://www.hec.ca/programmes/maitrises/maitrise-intelligence-affaires/) à HEC Montreal.
 
 ### Mon histoire en quelques lignes
@@ -16,6 +26,12 @@ Après avoir complété mon CPA, j'ai intégér le marché du travail. Cependant
 
 Depuis que je suis tout jeune, je participe à des sports organisés. football, soccer, hockey, natation, ski, j'en ait essayé plusieurs. Cette amour pour le sport se continue et c'est transformé en pratqiue du vélo et du golf.
 
-#### Anglais
+#### English
+Hello! 
+l'm Vincent Cotnoir and I am currently a student at HEC Monreal pursuing a masters in [business intelligence](https://www.hec.ca/programmes/maitrises/maitrise-intelligence-affaires/).
+
+After completing my CPA, I started working full time. Although I acquired a good amount of experience, I always had that thing in the back of my mind telling me to go and get further education in business intelligence. That is why, in september 2022, I decided to go back to school to complete the masters program.
+
+I am a devoted person and I love to give my 100% in all the activities that I do.
 :::
-::::
+:::

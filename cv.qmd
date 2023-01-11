@@ -61,12 +61,13 @@ title: "Curriculum Vitae"
 -   SQL
 -   R/Quarto (utilisé pour ce site avec Github)
 -   SAS
+-   Base de python
 
 ### **Compétences et intérêts** {.test2}
 **Langues maitrisées:** Français et anglais<br>
 **Outils de travail:** Suite Office, SAP, Alteryx, base de Tableau<br>
 **Intérêts:** Cyclisme, Technologie de l'information, finance personnelle, Formule 1<br>
-**Autres implications:**Comité Centraide PwC, Jeux du Commerce 2016 et 2019, Happening Marketing 2016 et 2017, Omnium Financier 2018 et Symposium GRH 2019
+**Autres implications:**Comité Centraide PwC, Jeux du Commerce 2016 à 2019, Happening Marketing 2016 et 2017, Omnium Financier 2018 et Symposium GRH 2019
 
 #### English
 
@@ -117,11 +118,12 @@ Jan. 2017 - April 2018
 -   SQL
 -   R/Quarto (used for this site with Github)
 -   SAS
+-   Basis in Python
 
 ### **Competencies and interests** {.test2}
 **Languages:** French and english<br>
 **Work Tools:** Office suite, SAP, Alteryx, Tableau basis<br>
 **Interests:** Cycling, information technology, personnal finance, Formula 1 <br>
-**Other extracurriculars:** PwC Centraide committee , Jeux du Commerce 2016 to 2019, Happening Marketing 2016 and 2017, Financial open 2018 et Symposium GRH 2019
+**Other extracurriculars:** PwC Centraide committee , Jeux du Commerce 2016 to 2019, Happening Marketing 2016 and 2017, Financial open 2018 and Symposium GRH 2019
 :::
 :::

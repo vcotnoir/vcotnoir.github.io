@@ -4,10 +4,8 @@ title: "Curriculum Vitae"
 
 ## **Vincent Cotnoir, CPA** {.test}
 
-::: {.contact layout-ncol="3"}
-{{< fa phone size=Large >}}<br>819-342-9316
-
-[{{< fa brands linkedin size=2xl >}}](https://www.linkedin.com/in/vincentcotnoir/)
+::: {.contact layout-ncol="2"}
+[{{< fa brands linkedin size=2xl >}}](https://www.linkedin.com/in/vincentcotnoir/)<br>LinkedIn
 
 {{< fa envelope size=Large >}}<br>cotnoir.vincent@gmail.com
 :::
@@ -16,7 +14,7 @@ title: "Curriculum Vitae"
 ::: panel-tabset
 #### Francais
 
-### **Education** {.test2}
+### **Éducation** {.test2}
 
 **HEC Montréal**, Montréal<br> Maîtrise en intelligence d'affaires (fin prévue décembre 2023)
 
@@ -24,38 +22,51 @@ title: "Curriculum Vitae"
 
 **Université de sherbrooke**, Sherbrooke<br> Baccalauréat en administration, concentration en comptabilité
 
-### **Work experience** {.test2}
+### **Expériences de travail** {.test2}
 
-**Danone Canada**, Montreal<br> *Finance manager, Financial planning and analysis*<br>
+**Danone Canada**, Montreal<br> 
+*Finance manager, Financial planning and analysis*<br>
+*Avril 2021 - Août 2022*<br>
 
 -   Consolidation des données marketing et des couts fixes<br>
 -   Analyse des données financières pour assurer l'alignement avec l'entreprise<br>
 -   Création d'outils de suivit des couts pour la haute direction<br>
 
-**PriceWaterhouseCoopers Canada**, Montréal<br> *Analyste sénior, Certification*<br>
+**PriceWaterhouseCoopers Canada**, Montréal<br> 
+*Analyste sénior, Certification*<br>
+*Aout 2020 - Avril 2021*<br>
 
 -   Planification de l'audit en effectuant l'évaluation des priorités et l'affectation des tâches<br>
 -   Entretien de relations client collaboratives permettant la résolution des requêtes de l'équipe<br>
 -   Encadrement des analystes par rétrospections constructives contribuant à leur développement<br>
 
-**PriceWaterhouseCoopers Canada**, Montréal<br> *Analyste expérimenté, Certification*<br>
+**PriceWaterhouseCoopers Canada**, Montréal<br> 
+*Analyste expérimenté, Certification*<br>
+*Oct. 2019 - Août 2020*<br>
 
 -   Comprendre et exécuter efficacement des sections complexes de l'audit (investissement, CMV)<br>
 -   valuer les processus de contrôle favorisant la productivité de la stratégie du mandat<br>
 -   Expliquer les écarts dans les états financiers d'une multitude d'entreprises<br>
 
+### **Expériences parascolaires** {.test2}
+**Comité Organisateur - Jeux du commerce 2018**, Montréal<br> 
+*VP relations interuniversitaires*<br>
+*Jan. 2017 - Avril 2018*
+
+-   Maintenir une communication continue avec les 13 universités participantes via plusieurs canaux<br>
+-   Résoudre les différends entre diverses parties prenantes assurant une compétition équitable<br>
+-   Animer les tables de discussion pour informer du déroulement de la compétition<br>
+
 ### **Languages de programmation** {.test2}
-
 -   SQL
--   R/Quarto (utilisé pour ce site)
--   Github (utilisé pour ce site)
--   Suite Office
--   autre
+-   R/Quarto (utilisé pour ce site avec Github)
+-   SAS
 
-### **Passions et autres accomplissements** {.test2}
-
--   Membre du comite organisateur des jeux du commerce 2018
--   Participation à une multitude de compétitions inter-universitaires
+### **Compétences et intérêts** {.test2}
+**Langues maitrisées:** Français et anglais<br>
+**Outils de travail:** Suite Office, SAP, Alteryx, base de Tableau<br>
+**Intérêts:** Cyclisme, Technologie de l'information, finance personnelle, Formule 1<br>
+**Autres implications:**Comité Centraide PwC, Jeux du Commerce 2016 et 2019, Happening Marketing 2016 et 2017, Omnium Financier 2018 et Symposium GRH 2019
 
 #### English
 
@@ -69,34 +80,48 @@ title: "Curriculum Vitae"
 
 ### **Work experience** {.test2}
 
-**Danone Canada**, Montreal<br> *Finance manager, Financial planning and analysis*<br>
-
+**Danone Canada**, Montreal<br> 
+*Finance manager, Financial planning and analysis*<br>
+April 2021 - Aug. 2022<br>
 -   Consolidation of marketing and overhead financial data<br>
 -   Financial data analysis to ensure alignement with business goals<br>
 -   Creation of tool to ensure appropriate reflectio of costs to upper management<br>
 
-**PriceWaterhouseCoopers Canada**, Montreal<br> *Senior analyst, Audit*<br>
+**PriceWaterhouseCoopers Canada**, Montreal<br> 
+*Senior analyst, Audit*<br>
+Aug. 2020 - April 2021<br>
 
 -   Audit planning and assessment of priorities throughout the team<br>
 -   Collaborative client relationship management to ensure resolution of team requests<br>
 -   Assess work of junior analysts and ensure that contructive feedback is given at opportunate moments<br>
 
-**PriceWaterhouseCoopers Canada**, Montreal<br> *Experienced analyst, Audit*<br>
+**PriceWaterhouseCoopers Canada**, Montreal<br> 
+*Experienced analyst, Audit*<br>
+Oct. 2019 - Aug. 2020<br>
 
 -   Understand and execute complex parts of the audit (investments, COGS)<br>
 -   Evaluate control processes while ensure effective application of audit strategy<br>
 -   Explain financial statement differences from multiple enterprises<br>
 
+### **Extracurricular** {.test2}
+**Organising committee - Jeux du commerce 2018**, Montréal<br> 
+*VP university relations*<br>
+Jan. 2017 - April 2018
+
+-   Keep consistent communication with 13 universities through multiple channels<br>
+-   Resolve problems between different parties while insuring a fair competition<br>
+-   Entertain discussion tables to inform universities of competition details<br>
+
 ### **Programming languages** {.test2}
 
 -   SQL
--   R/Quarto (used for this site)
--   Github (used for this site)
--   Office
+-   R/Quarto (used for this site with Github)
+-   SAS
 
-### **Passions other accomplishements** {.test2}
-
--   2018 Jeux du commerce organizing committee member
--   Participant in numerous university case competitons
+### **Competencies and interests** {.test2}
+**Languages:** French and english<br>
+**Work Tools:** Office suite, SAP, Alteryx, Tableau basis<br>
+**Interests:** Cycling, information technology, personnal finance, Formula 1 <br>
+**Other extracurriculars:** PwC Centraide committee , Jeux du Commerce 2016 to 2019, Happening Marketing 2016 and 2017, Financial open 2018 et Symposium GRH 2019
 :::
 :::
